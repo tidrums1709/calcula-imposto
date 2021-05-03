@@ -1,4 +1,4 @@
-package br.com.tiago.calculaimposto;
+package br.com.tiago.calculaimposto.repository;
 
 import br.com.tiago.calculaimposto.models.Pessoa;
 import org.springframework.data.jpa.repository.JpaRepository;
